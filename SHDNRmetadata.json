@@ -1,11 +1,7 @@
     {
-      "chainId": 101,
-      "address": "997TN3zLs1Nvkdp2ykU9TBbhWQKiNuDXCNL88xm5NrSg",
-      "symbol": "SHDNR",
-      "name": "Shahada Dinar",
-      "decimals": 0,
-      "logoURI": "https://github.com/SHDNR/shd/blob/main/Shahada%20Dinar.png?raw=true",
-      "extensions": {
-        "twitter": "https://x.com/ShahadaDinar",
-      }
-    },
+      {
+  "name": "Shahada Dinar",
+  "symbol": "SHDNR",
+  "description": "Shahada Dinar muslim token",
+  "image": "Thttps://github.com/SHDNR/shd/blob/main/Shahada%20Dinar.png?raw=true"
+}
