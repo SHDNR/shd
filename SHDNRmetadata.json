@@ -1,0 +1,11 @@
+    {
+      "chainId": 101,
+      "address": "997TN3zLs1Nvkdp2ykU9TBbhWQKiNuDXCNL88xm5NrSg",
+      "symbol": "SHDNR",
+      "name": "Shahada Dinar",
+      "decimals": 0,
+      "logoURI": "https://pbs.twimg.com/media/GfDcKWLbUAAMio-?format=jpg",
+      "extensions": {
+        "twitter": "https://x.com/ShahadaDinar",
+      }
+    },
